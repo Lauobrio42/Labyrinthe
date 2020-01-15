@@ -107,6 +107,7 @@ Finally, the save.csv file is the one to manage backups
 
 
 <img src="https://github.com/LaurineObriot/Labyrinthe/blob/master/screenshots/Home.PNG">
+<img src="https://github.com/LaurineObriot/Labyrinthe/blob/master/screenshots/LABy-choix.PNG">
 <img src="https://github.com/LaurineObriot/Labyrinthe/blob/master/screenshots/Labyrinthe%20FACILE.PNG">
 EASY LABY
 <img src="https://github.com/LaurineObriot/Labyrinthe/blob/master/screenshots/Labyrinthe%20HARD.PNG">
