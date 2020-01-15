@@ -305,7 +305,7 @@ while running:
 
     if settings == True:
         buttonPlay, buttonReplay = [None] * 2
-        infotxt = font.render('Entrer votre nom:',1,(0,0,0))
+        infotxt = font.render('Enter your name:',1,(0,0,0))
         window.blit(infotxt, (160,50))
         nickname = font.render(nametxt,1,(0,0,0))
         window.blit(nickname, (200,80))
@@ -347,7 +347,7 @@ while running:
         buttonTraceB = pygame.Rect((xWindow/2+60), (yWindow/2+25), 50, 50)
 
         pygame.draw.rect(window, [255, 0, 0], buttonTrace)
-        tracetxt = font.render('Tracer ?',1,(255,255,255))
+        tracetxt = font.render('Draw ?',1,(255,255,255))
         window.blit(tracetxt, (170,285) )
 
         pygame.draw.rect(window, colorTrB, buttonTraceB)
@@ -615,4 +615,3 @@ while running:
 # Quand on quitte la boucle on éteint pygame
 
 pygame.quit()
-
