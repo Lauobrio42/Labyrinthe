@@ -1,5 +1,12 @@
 # Labyrinthe
 
+Projet personnel effectué en 3 semaines.
+
+J'ai voulu essayer le langage Python, je ne savais pas par quoi commencer.
+On m'a alors suggéré de faire un labyrinthe avec un joueur qui est dans un coin du labyrinthe avec plusieurs chemins possibles pour en sortir. Le but est de trouver le chemin le plus court vers la sortie.
+
+Le projet a quelque peu évolué en 3 semaines :
+
 ## Français
 
 Génération de labyrinthe (différents type d'algorithme) sous python.
